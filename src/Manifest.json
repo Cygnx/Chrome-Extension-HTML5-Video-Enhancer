@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	
+	"name": "HTML5 Video Rotator",
+	"version": "1.0",
+	"description": "HTML5 Video Rotator",
+	
+	  "browser_action": {
+		"default_icon": "ico.png",
+		"default_popup": "popup.html"
+	},
+		  
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["jquery-2.1.3.min.js", "inject.js"]
+    }
+  ]
+}
