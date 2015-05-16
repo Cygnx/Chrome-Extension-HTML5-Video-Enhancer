@@ -1,14 +1,18 @@
 # Chrome-Extension-HTML5 Video rotator
+# About
 Chrome Extension.
 Written in Javascript.
-This is a simple chrome extension that allows users to modify the orientation of HTML5 videos(youtube,vine,ect) on the current active page.
-Installation: 
+This extension expands the available playback options for HTML5 videos(youtube, vine, ect)
+
+#Installation: 
 Navigate to "chrome://extensions/"
 Make sure the Developer Mode is enabled
 Drag and drop src.crx onto the page
 
-
+#Usage/Features
 ![My image](http://i.imgur.com/fJ14TOQ.png)
+
+#Screenshots
 Normal:
 ![My image](http://i.imgur.com/IACbUst.jpg?2)
 Rotated:
