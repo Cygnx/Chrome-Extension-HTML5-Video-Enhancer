@@ -8,7 +8,7 @@ Make sure the Developer Mode is enabled
 Drag and drop src.crx onto the page
 
 
-![My image](http://i.imgur.com/lnWpUjC.jpg?1)
+![My image](http://i.imgur.com/fJ14TOQ.png)
 Normal:
 ![My image](http://i.imgur.com/IACbUst.jpg?2)
 Rotated:
