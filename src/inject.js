@@ -10,14 +10,21 @@ var rotate = function() {
 }
 var setRotations = function(_deg) {
     deg += _deg;
+	dbg();
 }
 var setSpeed = function(_speed) {
     if (speed < 1 && _speed < 1)
         _speed = -.1
     speed += _speed;
+	dbg();
 }
 var enforceRotations = function() {
     rotate();
+}
+var dbg = function(){
+	console.log("[Current settings] ");
+	console.log("Playback Speed: " + speed);
+	console.log("Rotation Degree: " + deg);
 }
 $(document).keydown(function(e) {
     if (e.keyCode == 37 && e.shiftKey && e.altKey)
