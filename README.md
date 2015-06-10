@@ -1,4 +1,4 @@
-# Chrome-Extension-HTML5 Video rotator
+# Chrome-Extension-HTML5 Video Enhancer
 # About
 Chrome Extension.
 Written in Javascript.
